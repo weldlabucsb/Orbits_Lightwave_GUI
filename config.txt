@@ -1,0 +1,6 @@
+config.port='COM7';
+config.numPoints=500;
+config.Period=1;
+config.LaserSetPointTemp=36.4;
+config.LaserSetPoint=80;
+%seed monitor v_3
